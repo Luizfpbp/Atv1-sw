@@ -1,2 +1,6 @@
 # Atv1-sw
-Activity that returns a zombie process 
+Primeira Atividade de infrestrutura de software.
+
+Seu proposito é criar um processo zumbi por meio de um pai e filho, 
+o sistema permanece por 10 segundos para que a verificação dos estados 
+do processo.

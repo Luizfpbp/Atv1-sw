@@ -17,3 +17,6 @@ $ cd Atv1-sw
   $ ./target     # Executa o arquivo
   $ rm target    # Limpa
 ```
+## License
+[MIT]
+(https://choosealicense.com/licenses/mit/)

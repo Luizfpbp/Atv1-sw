@@ -8,14 +8,12 @@ int main() {
 	pid_t Tpid;
 	Tpid = fork();
 	
-	if (Tpid > 0) {
+	if (Tpid != 0) {
 		sleep(10);
-		printf("pegou?\n");
 		
 	} 
 
 	else {
-		printf("FILHO\n");
 		return 0;	
 	}	
 

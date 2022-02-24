@@ -6,8 +6,10 @@ o sistema permanece por 10 segundos para que a verificação dos estados<br/>
 do processo.<br/>
 
 ## Instalation
-$ git clone 
-$ cd 
+'''bash
+$ git clone https://github.com/Luizfpbp/Atv1-sw.git
+$ cd Atv1-sw
+'''
 
 <br/>
   $ make         # Compilar o arquivo c<br/>

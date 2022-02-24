@@ -15,6 +15,7 @@ $ cd Atv1-sw
 ```bash
   $ make         # Compilar o arquivo c
   $ ./target     # Executa o arquivo
+  $ ps -l        # Gera uma tabela para verificar se o processo é zumbi
   $ rm target    # Limpa
 ```
 ## License

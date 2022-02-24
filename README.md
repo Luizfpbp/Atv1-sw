@@ -8,4 +8,4 @@ do processo.<br/>
 <br/>
   $ make         # Compilar o arquivo c<br/>
   $ ./target     # Executa o arquivo<br/>
-  $ ./target     # Executa o arquivo<br/>
+  $ rm target    # Limpa<br/>

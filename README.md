@@ -11,7 +11,9 @@ $ git clone https://github.com/Luizfpbp/Atv1-sw.git
 $ cd Atv1-sw
 ```
 
-<br/>
-  $ make         # Compilar o arquivo c<br/>
-  $ ./target     # Executa o arquivo<br/>
-  $ rm target    # Limpa<br/>
+## Commands
+```bash
+  $ make         # Compilar o arquivo c
+  $ ./target     # Executa o arquivo
+  $ rm target    # Limpa
+```

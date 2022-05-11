@@ -1,4 +1,4 @@
-# Atv1-sw
+# Atv1-sw-ZombieProcess
 Primeira Atividade de infrestrutura de software.<br/>
 
 Seu proposito é criar um processo zumbi por meio de um pai e filho,<br/>
@@ -8,7 +8,7 @@ do processo.<br/>
 ## Instalation
 ```bash
 $ git clone https://github.com/Luizfpbp/Atv1-sw.git
-$ cd Atv1-sw
+$ cd Atv1-sw-ZombieProcess
 ```
 
 ## Commands

@@ -7,7 +7,7 @@ do processo.<br/>
 
 ## Instalation
 ```bash
-$ git clone https://github.com/Luizfpbp/Atv1-sw.git
+$ git clone https://github.com/Luizfpbp/Atv1-sw-ZombieProcess.git
 $ cd Atv1-sw-ZombieProcess
 ```
 
